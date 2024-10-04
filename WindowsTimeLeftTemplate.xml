@@ -50,7 +50,7 @@
                 </item>
                 <item>
                     <uuid>49855c144bfe443486fffec665c932d4</uuid>
-                    <name>FDTimeleft2</name>
+                    <name>D_Disk_Timeleft2</name>
                     <type>CALCULATED</type>
                     <key>dtt</key>
                     <delay>360m</delay>
